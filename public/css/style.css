@@ -1,0 +1,17 @@
+
+body {
+  background-image: repeating-linear-gradient(#000, #FFF, #FFF, #FFF, #000);
+  font-family: 'Abel', sans-serif;
+  margin: 8em;
+  font-size: 1.5em;
+}
+
+div {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+}
+#number-fact {
+  text-decoration: underline;
+  border: 4px outset silver;
+}
